@@ -27,15 +27,7 @@ or internet connection required to view it.
 - Contact & Inquiry Form
 - Fully responsive — works on mobile, tablet and desktop
 
-## Tech Stack
 
-- Pure HTML, CSS and JavaScript — zero frameworks
-- Google Fonts (Bebas Neue, Outfit, Playfair Display)
-- All assets base64-embedded for portability
-
-## Live Site
-
-https://YOUR-NETLIFY-LINK-HERE
 
 ## Contact
 
